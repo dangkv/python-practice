@@ -1,6 +1,6 @@
 # Pytest
 
-| [doc](https://docs.pytest.org/) |
+[doc](https://docs.pytest.org/)
 
 # Installing pytest
 ```shell script
