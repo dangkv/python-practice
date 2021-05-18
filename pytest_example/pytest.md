@@ -25,6 +25,20 @@ def testadd(): - valid
 def add(): - invalid
 ```
 
+## Assertions in Pytest
+```python
+assert "hello" == "Hai" # is an assertion failure.
+assert 4==4 # is a successful assertion
+assert True # is a successful assertion
+assert False # is an assertion failure.
+```
+
+## Best Practices
+[Arrange Act Assert pattern](https://jamescooke.info/arrange-act-assert-pattern-for-python-developers.html)
+
+[Packaging a Python Library](https://blog.ionelmc.ro/2014/05/25/python-packaging/#the-structure)
+
+
 ## Learning Resources
 [Python Testing 101 with pytest](https://www.youtube.com/watch?v=etosV2IWBF0)
 
