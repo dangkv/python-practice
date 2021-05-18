@@ -1,11 +1,11 @@
 # [Pytest](https://docs.pytest.org/)
 
-# Installing pytest
+## Installing pytest
 ```shell script
 python -m pip install pytest
 ```
 
-# Pytest Conventions
+## Pytest Conventions
 
 By default pytest only identifies the file names starting with `test_` or 
 ending with `_test` as the test files.
@@ -25,7 +25,7 @@ def testadd(): - valid
 def add(): - invalid
 ```
 
-# Learning Resources
+## Learning Resources
 [Python Testing 101 with pytest](https://www.youtube.com/watch?v=etosV2IWBF0)
 
 [PyTest Tutorial | Unit Testing Framework In Python | How to use PyTest | Python Training | Edureka](https://www.youtube.com/watch?v=byaxg00Gf9I)
